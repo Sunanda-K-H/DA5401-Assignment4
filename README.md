@@ -20,7 +20,7 @@ To address this issue, **GMM-based synthetic sampling** is explored as an altern
 
 ---
 
-## 📦 Project Structure
+## Project Structure
 
 ```
 DA5401-Assignment4/
@@ -31,7 +31,7 @@ DA5401-Assignment4/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 - Running in cloud environments (e.g., Colab/Kaggle) may cause issues with imbalanced-learn installation. Local execution is recommended.
 1. Ensure proper environment setup:
